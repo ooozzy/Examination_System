@@ -33,7 +33,7 @@ public class TeacherController {
     @Resource(name = "selectedCourseServiceImpl")
     private SelectedCourseService selectedCourseService;
 
-    // 显示我的课程
+    // 显示我的课程sdfds fdsf sdf sf sd dsf
     @RequestMapping(value = "/showCourse")
     public String stuCourseShow(Model model) throws Exception {
 
